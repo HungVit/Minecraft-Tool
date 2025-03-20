@@ -6,8 +6,8 @@ Hello, I am Nguyen Hung 🇻🇳. Đây là trang Github mà tôi sẽ public nh
 
 ---
 ## Liên hệ tôi qua
-🌷 Facebook: [Mở liên kết](https://www.facebook.com/share/1ABWAeoYEA/); <br>
-🔥 Tiktok: [Mở liên kết](https://www.tiktok.com/@myhngduck?_t=ZS-8uqXayiNYMa&_r=1); <br>
-❤️ Gmail: [Mở liên kết](mailto:nghung6429@gmail.com); <br>
+🌷 Facebook: [Nguyễn Quang Hùng](https://www.facebook.com/share/1ABWAeoYEA/) <br>
+🔥 Tiktok: [Hùng Nguyễn](https://www.tiktok.com/@myhngduck?_t=ZS-8uqXayiNYMa&_r=1) <br>
+❤️ Gmail: [Ng Hung](mailto:nghung6429@gmail.com) <br>
 
 ---
