@@ -7,9 +7,8 @@ Hello, I am Nguyen Hung 🇻🇳. Đây là trang Github mà tôi sẽ public nh
 | Phiên bản | Tải xuống |
 |-----------|-----------|
 | 1.21      | [Tải xuống](https://google.com) |
-| 1.20      | [Tải xuống](https://www.google.com) |
-| 1.19      | [Tải xuống](https://www.google.com) |
-| 1.18      | [Tải xuống](https://www.google.com) |
+| 1.21 (Beta)| [Tải xuống](https://www.google.com) |
+| Gói tiếng Việt| [Tải xuống](https://www.google.com) |
 
 ## Liên hệ tôi qua
 
